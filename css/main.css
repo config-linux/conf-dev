@@ -1,0 +1,21 @@
+* {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+.top_line {
+    height: 60px;
+    background-color: #00FFFF;
+    max-width: 100%;
+    text-align: center;
+}
+.top_line h2 {
+	padding-top: 10px;
+	font-family: hack;
+}
+.zmist h3 {
+	text-align: center;
+}
+.zmist li {
+	list-style-type: none;
+	font-family: hack;
+}
